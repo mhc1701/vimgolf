@@ -1,5 +1,7 @@
 # vimgolf
-###20174317 문희찬
+
+### 20174317 문희찬
+
 **오픈소스 과제2**
 
 ![GOMCAM 20211205_1729110748_2](https://user-images.githubusercontent.com/94783175/144741538-5a1e8a9b-2f2b-47d3-a3ea-7a3a0f4aa6d5.gif)
@@ -15,7 +17,7 @@
 
 ![GOMCAM 20211205_1729110748_6](https://user-images.githubusercontent.com/94783175/144741548-e32a9637-4ee1-416c-bdba-088d3fc7b2a7.gif)
 
-$ vimgolf put 5f1063aa8361810006e73210
+•$ vimgolf put 5f1063aa8361810006e73210
 
 37점
 
