@@ -9,6 +9,7 @@
 ![GOMCAM 20211205_1729110748_2](https://user-images.githubusercontent.com/94783175/144741538-5a1e8a9b-2f2b-47d3-a3ea-7a3a0f4aa6d5.gif)
 
 • $ vimgolf put 5f0f5fbe280fbf000c233304
+
 10점
 
 ***
@@ -34,6 +35,8 @@
 • $ vimgolf put 9v0060da5177000000000209
 
 90점
+
+파일 크기가 커서 줄였습니다.
 
 ***
 
