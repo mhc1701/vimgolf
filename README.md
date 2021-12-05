@@ -10,6 +10,8 @@
 
 • $ vimgolf put 5f0f5fbe280fbf000c233304
 
+GWi"<End>"<Esc>:x<CR>
+
 10점
 
 ***
@@ -18,6 +20,8 @@
 
 • $ vimgolf put 603ba26a01b4d00009c10a49
 
+<Esc>:%s/sublime/vim/g<CR><Esc>:%s/emacs/vim/g<CR><Esc>:x<CR>
+  
 40점
 
 ***
@@ -26,6 +30,8 @@
 
 •$ vimgolf put 5f1063aa8361810006e73210
 
+4GO// Version TODO<Down><CR>// Debug TODO<Esc>:x<CR>
+  
 37점
 
 ***
@@ -34,6 +40,8 @@
 
 • $ vimgolf put 9v0060da5177000000000209
 
+<Esc>:%s/y1/abs(y1)/g<CR><Esc>:s/1/4/g<CR><Esc>:s/k/g<CR><Up><Esc>:s/13/<Left><Left><Left>/<BS><Right>/<Right><Right>g<CR><Esc>:s/k/r<CR><Up><Esc>:s/2/<BS><BS>1/2/g<CR><Esc>:s/k/b<CR><Esc>:x<CR>  
+  
 90점
 
 파일 크기가 커서 줄였습니다.
@@ -44,4 +52,6 @@
 
 • $ vimgolf put 6013804df3308e0009368f1c
 
+  10G<End>istudent_id,name,age,score<Esc>:x<CR>
+  
 34점
